@@ -3,3 +3,6 @@ suites:
         namespace: NetSuite
         psr4_prefix: NetSuite
         src_path: src
+        spec_path: tests
+
+formatter.name: pretty

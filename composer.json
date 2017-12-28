@@ -1,24 +1,27 @@
 {
-  "name": "ryanwinchester/netsuite-php",
+  "name": "r-phelan/NetSuite-PHP-WS",
   "description": "NetSuite PHP API wrapper",
-  "keywords": [ "netsuite", "api", "php" ],
+  "keywords": [ "netsuite", "api", "php", "php7", "webservices" ],
   "type": "library",
   "license": "Apache-2.0",
   "authors": [
+    {
+      "name": "Ryan Phelan",
+      "email": "ryan@twenty6photo.com"
+    },
     {
       "name": "Ryan Winchester (fungku)",
       "email": "fungku@gmail.com"
     }
   ],
   "require": {
-    "php": ">=5.3.0",
+    "php": ">=7",
     "ext-soap": "*",
     "ext-SimpleXML": "*",
-    "ext-openssl": "*",
-    "paragonie/random_compat": "^2.0"
+    "ext-openssl": "*"
   },
   "require-dev": {
-    "phpspec/phpspec": "^2.4"
+    "phpspec/phpspec": "^4.0"
   },
   "autoload": {
     "psr-4": {

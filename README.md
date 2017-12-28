@@ -9,12 +9,10 @@ A PHP API client package for NetSuite, pried from the [NetSuite PHP Toolkit](htt
 
 Require with composer:
 
-**V2 in Alpha**
-
-**NOTE: package name change**
+**THIS VERSION IN ALPHA - NOT COMPLETE**
 
 ```
-composer require "ryanwinchester/netsuite-php:2017.1.*"
+composer require "r-phelan/NetSuite-PHP-WS:2017.2.*"
 ```
 
 ## Changes in v2:

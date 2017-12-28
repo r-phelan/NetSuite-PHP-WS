@@ -1,3 +1,6 @@
+
+   Modified and New Work Copyright (c) 2017 Ryan Phelan (r-phelan)
+
    Modified and new work Copyright (c) 2015 Ryan Winchester (fungku)
 
    Licensed under the Apache License, Version 2.0 (the "License");
